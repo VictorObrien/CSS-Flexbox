@@ -30,8 +30,8 @@ O cursos é *gratuito* e muito diático.
 
 ## :bulb: Apps desenvolvidos
 
-[Aula 01 - display flex](https://github.com/VictorObrien/css-flexbox/tree/main/01-display-flex)</br>
-[Aula 02 - flex-direction](https://github.com/VictorObrien/css-flexbox/tree/main/02-flex-direction)
+[Aula 01 - display flex](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/01-display-flex)</br>
+[Aula 02 - flex-direction](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/02-flex-direction)
 
 <a id="tecnologias"></a>
 
