@@ -1,7 +1,7 @@
 # CSS-Flexbox
 
 <p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorObrien/daily-code?color=%2304D361">           
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorObrien/CSS-Flexbox?color=%2304D361">           
   <a aria-label="Repositórios Git" href="https://github.com/VictorObrien/">
     <img src="https://img.shields.io/badge/Github-VictorObrien-success?logo=github"></img>
   </a>
@@ -15,7 +15,6 @@
   <a href="#aulas">Aulas</a> | 
   <a href="#tecnologias">Tecnologias</a> | 
   <a href="#run">Clonando o projeto</a> | 
-  <a href="#licenca">Licença</a> | 
   <a href="#contato">Contato</a>
 </p>
 
@@ -63,11 +62,6 @@ O projeto foi desenvolvido utilizando as tecnologias:
 ```sh
   $ git clone https://github.com/VictorObrien/CSS-Flexbox.git
 ```
-
-<a id="licenca"></a>
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <a id="contato"></a>
 
