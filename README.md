@@ -24,11 +24,11 @@
 ## :rocket: Sobre o CSS Flexbox
 
 O CSS Flexbox é um repositório com os estudos sobre flexbox do curso da [Origamid](https://www.origamid.com/curso/css-flexbox).
-O cursos é *gratuito* e muito diático.
+O cursos é *gratuito* e muito didático.
 
 <a id="aulas"></a>
 
-## :bulb: Apps desenvolvidos
+## :bulb: Aulas
 
 ### Aulas sobre as propriedades do Flex Container
 
@@ -61,7 +61,7 @@ O projeto foi desenvolvido utilizando as tecnologias:
 1. Clonar o repositório:
 
 ```sh
-  $ git clone https://github.com/VictorObrien/daily-code.git
+  $ git clone https://github.com/VictorObrien/CSS-Flexbox.git
 ```
 
 <a id="licenca"></a>
