@@ -30,8 +30,19 @@ O cursos é *gratuito* e muito diático.
 
 ## :bulb: Apps desenvolvidos
 
+### Aulas sobre as propriedades do Flex Container
+
 [Aula 01 - display flex](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/01-display-flex)</br>
-[Aula 02 - flex-direction](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/02-flex-direction)
+[Aula 02 - flex-direction](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/02-flex-direction)</br>
+[Aula 03 - flex-wrap](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/03-flex-wrap)</br>
+[Aula 04 - flex-flow](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/04-flex-flow)</br>
+[Aula 05 - justify-content](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/05-justify-content)</br>
+[Aula 06 - align-items](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/06-align-items)</br>
+[Aula 07 - align-content](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/07-align-content)</br>
+
+### Aulas sobre as propriedades do Flex Item
+
+
 
 <a id="tecnologias"></a>
 
