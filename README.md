@@ -41,6 +41,10 @@ O cursos é *gratuito* e muito didático.
 
 ### Aulas sobre as propriedades do Flex Item
 
+[Aula 08 - flex-grow](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/08-flex-grow)</br>
+[Aula 09 - flex-basis](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/09-flex-basis)</br>
+[Aula 10 - flex-shrink](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/10-flex-shrink)</br>
+[Aula 11 - flex](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/11-flex)</br>
 
 
 <a id="tecnologias"></a>
