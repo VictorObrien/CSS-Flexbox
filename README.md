@@ -45,6 +45,8 @@ O cursos é *gratuito* e muito didático.
 [Aula 09 - flex-basis](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/09-flex-basis)</br>
 [Aula 10 - flex-shrink](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/10-flex-shrink)</br>
 [Aula 11 - flex](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/11-flex)</br>
+[Aula 12 - order](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/12-order)</br>
+[Aula 13 - align-self](https://github.com/VictorObrien/CSS-Flexbox/tree/main/Aulas/13-align-self)</br>
 
 
 <a id="tecnologias"></a>
