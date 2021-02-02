@@ -51,6 +51,10 @@ O cursos é *gratuito* e muito didático.
 
 <a id="tecnologias"></a>
 
+## :desktop_computer: FlexBlog
+
+<img align="center" src="assets/flexblog.gif" alt="flexblog">
+
 ## :computer: Tecnologias
 
 O projeto foi desenvolvido utilizando as tecnologias:
