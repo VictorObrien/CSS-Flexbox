@@ -53,7 +53,7 @@ O cursos é *gratuito* e muito didático.
 
 ## :desktop_computer: FlexBlog
 
-<img align="center" src="assets/flexblog.gif" alt="flexblog">
+<img align="center" src="https://drive.google.com/file/d/1nUUqmS08aRjmfLAj3704HsMSJ6hkPD_l/view?usp=sharing" alt="flexblog">
 
 ## :computer: Tecnologias
 
